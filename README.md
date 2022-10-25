@@ -1,5 +1,5 @@
 # Py3-Specialization
-Codes that i made from this courses!
+Codes that i made of these courses!
 
 Link of the courses: https://www.coursera.org/specializations/python-3-programming?
 
