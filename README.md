@@ -5,7 +5,7 @@ Link of the courses: https://www.coursera.org/specializations/python-3-programmi
 
 Courses: 
 
-- Python Basics
+- Python Basics ✔️
 - Python Functions, Files, and Dictionaries
 - Data Collection and Processing with Python
 - Python Classes and Inheritance
